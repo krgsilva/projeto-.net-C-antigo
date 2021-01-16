@@ -1,0 +1,108 @@
+E:\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.exe.config
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.exe.config
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.exe
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.pdb
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarAluno.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarCurso.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarDisciplina.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarProfessor.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarTurma.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.Form1.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.RemoverCurso.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverDisciplina.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverProfessor.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverTurma.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.Properties.Resources.resources
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.csproj.GenerateResource.Cache
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.exe
+C:\Users\Carlos Eduardo\Dropbox\UNIBRATEC\New folder\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.pdb
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.exe
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.pdb
+E:\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.exe
+E:\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.pdb
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarAluno.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarCurso.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarProfessor.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarTurma.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarAluno.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarCurso.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarDisciplina.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarProfessor.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarTurma.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.gui.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.PainelAdmin.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.PainelAluno.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.PainelProfessor.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.Form1.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.RemoverCurso.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverDisciplina.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverProfessor.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverTurma.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.TelaLoginAdmin.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.TelaLoginAluno.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.Telaloginprof.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.Properties.Resources.resources
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.exe.config
+H:\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.exe
+H:\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.pdb
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarAluno.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarCurso.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarDisciplina.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarProfessor.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarTurma.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarAluno.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarCurso.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarDisciplina.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarProfessor.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarTurma.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.gui.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.PainelAluno.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.PainelProfessor.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.RemoverCurso.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverDisciplina.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverProfessor.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverTurma.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.TelaLoginAdmin.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.TelaLoginAluno.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.Telaloginprof.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.Properties.Resources.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.csproj.GenerateResource.Cache
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.exe
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.pdb
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.PainelAdmin.resources
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.csprojResolveAssemblyReference.cache
+H:\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.RemoverAluno2.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.exe.config
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.exe
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.pdb
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.exe
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\bin\Debug\projetoXNET.pdb
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.csprojResolveAssemblyReference.cache
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarAluno.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarCurso.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarDisciplina.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarProfessor.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.AtualizarTurma.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarAluno.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarCurso.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarDisciplina.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarProfessor.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoxnet.gui.cadastrarTurma.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.gui.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.PainelAdmin.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.PainelAluno.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.PainelProfessor.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.RemoverAluno2.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.RemoverCurso.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverDisciplina.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverProfessor.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.FormsRemover.RemoverTurma.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.TelaLoginAdmin.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.TelaLoginAluno.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.gui.Telaloginprof.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.Properties.Resources.resources
+C:\Users\kleber\Desktop\Projeto Xnet Completo\Projeto DAD\projetoXNET\projetoXNET\obj\x86\Debug\projetoXNET.csproj.GenerateResource.Cache
